@@ -1,1 +1,8 @@
-# experiment-website-1
+root/
+│
+├── index.html
+├── styles/
+│   ├── styles.css
+│   └── images/
+│       └── background.jpg
+└── README.md
